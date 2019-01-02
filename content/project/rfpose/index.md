@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "CheXNet for Classification and Localization of Thoracic Diseases"
+title = "Real-Time System for Through-Wall Human Pose Estimation"
 
 # Date this page was created.
-date = 2017-12-01T00:00:00
+date = 2018-10-01T00:00:00
 
 # Project summary to display on homepage.
-summary = "Python3 (Pytorch) reimplementation of CheXNet. The model takes a chest X-ray image as input and outputs the probability of each thoracic disease along with a likelihood map of pathologies."
+summary = "Real-time system that tracks and estimates human skeletons using radio signals through wall."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -27,7 +27,7 @@ external_link = ""
 url_pdf = ""
 url_slides = ""
 url_video = ""
-url_code = "https://github.com/firstmover/CheXNet"
+url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -44,3 +44,9 @@ url_code = "https://github.com/firstmover/CheXNet"
   # focal_point = "Smart"
 
 +++
+
+Real-time system that tracks and estimates human skeletons using radio signals through wall.
+
+[Project RF-Pose](http://rfpose3d.csail.mit.edu/)
+
+The system was demonstrated on SIGCOMM2018 conference.
